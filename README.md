@@ -5,6 +5,7 @@
 
 ###
 
+<h3> Front-end: <h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -15,6 +16,11 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="4" />
+</div>
+
+<h3> Back-end: </h3>
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
@@ -26,11 +32,19 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+</div>
+
+<h3> Banco de Dados: </h3>
+<div align="left">
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="4" />
+</div>
+
+<h3> Outros: </h3>
+<div align="left"
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
@@ -44,7 +58,7 @@
 
 ###
 
-h3 align="left">Atualmente eu estou:</h3>
+<h3 align="left">Atualmente eu estou:</h3>
 
 ###
 
