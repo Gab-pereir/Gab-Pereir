@@ -1,13 +1,10 @@
 <img width="100%" height="100%" src="https://github.com/Gab-pereir/Gab-Pereir/blob/main/header.png"><br>
 
 
-<p align="left">• 📚 Aprofundando conhecimentos em Python para aplicações diversas.<br>• 💡 Explorando as possibilidades do React para criação de interfaces interativas.<br>• 🎸 Criando músicas e desenvolvendo projetos criativos.<br>• ✏️ Expressando minha criatividade visual através do desenho.</p>
+<p align="left">• 🤖 Técnico em Eletroeletrônica.<br>• 👨🏾‍💻 Técnico em Informática Para a Internet.<br>• 📱 Certificado em Ux Design pela Google.<br>• 🎲 Certificando-se em análise de dados.</p>
 
 ###
 
-<h3 align="left">Habilidades:</h3>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -45,6 +42,17 @@
   <img src="https://skillicons.dev/icons?i=mastodon" height="40" alt="mastodon logo"  />
 </div>
 
+###
+
+h3 align="left">Atualmente eu estou:</h3>
+
+###
+
+<p align="left">• 📚 Aprofundando conhecimentos em Python para aplicações diversas.<br>• 💡 Explorando as possibilidades do React para criação de interfaces interativas.<br>• 🎸 Criando músicas e desenvolvendo projetos criativos.<br>• ✏️ Expressando minha criatividade visual através do desenho.</p>
+
+###
+
+<h3 align="left">Histórico:</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gab-pereir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -57,7 +65,7 @@
 
 ###
 
-<p align="left">• 📫 Como me encontrar: pessoal.gabriel.pereira@gmail.com<br>• 💼 LinkedIn: Gabriel Pereira de Almeida</p>
+<p align="left">• 📫 pessoal.gabriel.pereira@gmail.com<br> </o>
 
 ###
 
