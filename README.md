@@ -1,11 +1,15 @@
 <img width="100%" height="100%" src="https://github.com/Gab-pereir/Gab-Pereir/blob/main/header.png"><br>
 
+<div align="center">
+  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31amihkhbg4gtuiv2airjrre6txm)
+</div>
 
 <p align="left">• 🤖 Técnico em Eletroeletrônica.<br>• 👨🏾‍💻 Técnico em Informática Para a Internet.<br>• 📱 Certificado em Ux Design pela Google.<br>• 🎲 Certificando-se em análise de dados.</p>
 
 ###
 
-<h3> Front-end: <h3>
+<h3> Conhecimentos: <h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -16,11 +20,6 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="4" />
-</div>
-
-<h3> Back-end: </h3>
-
-<div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
@@ -33,18 +32,11 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
-
-<h3> Banco de Dados: </h3>
-<div align="left">
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="4" />
-</div>
-
-<h3> Outros: </h3>
-<div align="left"
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
