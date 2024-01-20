@@ -19,7 +19,10 @@
 <br><br><br><br>
 
 <div align="center">
-<a href="https://github.com/Gab-pereir"> <img height="auto" src="https://github-readme-stats.vercel.app/api?username=Gab-pereir&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/></a> <a href="https://github.com/Gab-pereir"> <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-pereir&layout=compact&langs_count=7&theme=codeSTACKr"/> </a> 
+
+<a href="https://github.com/Gab-pereir"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=Gab-pereir&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+
+ <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-pereir&layout=compact&langs_count=7&theme=codeSTACKr"/> </a> 
 </div>
 <br>
 <br>
