@@ -20,9 +20,10 @@
 
 <div align="center">
 
-<a href="https://github.com/Gab-pereir"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=Gab-pereir&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Gab-Pereir&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Gab-pereir/github-readme-stats#gh-dark-mode-only)
 
- <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-pereir&layout=compact&langs_count=7&theme=codeSTACKr"/> </a> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-pereir&size_weight=0.5&count_weight=0.5) 
+
 </div>
 <br>
 <br>
