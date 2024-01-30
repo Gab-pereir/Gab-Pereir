@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ededed&height=120&section=header" alt="Blue Waves">
 
-<br>
 
 
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31amihkhbg4gtuiv2airjrre6txm" width="360">
@@ -33,6 +32,5 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gab-Pereir&bg_color=00000000&color=dcdcdc&line=3E6E8C&point=5289ab&hide_border=true" alt="Contribution Graphic">
 </div>
 
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ededed&height=120&section=footer"/>
