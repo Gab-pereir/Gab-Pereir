@@ -12,10 +12,10 @@
 
 - 🌱 Ux Design pelo Progama de Certificação da Google.
 
-- ✍️ Design Gráfico pela CalArts.
+- ✍️ Cursando Análise e Desenvolvimento de sistemas
+  
+- 🖥️ Ampliando conhecimentos em React
 
-- 🖥️ Back-end pelo Progama de Certificação da Ibm.
- 
 <br> 
 <h2>🛠 Habilidades: </h2>  
 <img align="left"src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github">
