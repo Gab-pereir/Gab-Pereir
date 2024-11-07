@@ -81,10 +81,6 @@
 
 ###
 
-<img align="right" height="248" src="https://github.com/Gab-pereir.png"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/Gab_meraki" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
